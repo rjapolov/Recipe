@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Книга рецептов</string>
+    <string name="navigation_drawer_open" translatable="false">Открыть панель навигации</string>
+    <string name="navigation_drawer_close" translatable="false">Скрыть панель навигации</string>
+    <string name="nav_header_title" translatable="false">Книга рецептов</string>
+    <string name="action_settings" translatable="false">Настройки</string>
+    <string name="menu_home" translatable="false">Домой</string>
+    <string name="menu_gallery" translatable="false">Галерея</string>
+    <string name="nav_header_desc" translatable="false">Вех нави</string>
+    <string name="menu_slideshow" translatable="false">"Слайдшоу "</string>
+</resources>
