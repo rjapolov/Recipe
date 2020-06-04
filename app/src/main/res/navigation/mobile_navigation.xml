@@ -22,4 +22,10 @@
         android:name="ru.sikod.recipe.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+
+    <activity
+        android:id="@+id/nav_accaunt"
+        android:name="ru.sikod.recipe.ui.login.LoginActivity"
+        android:label="@string/menu_accaunts"
+        tools:layout="@layout/activity_login"/>
 </navigation>
